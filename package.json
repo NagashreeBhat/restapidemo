@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "REST API demo with node.js",
   "author": {
-    "name": "Mamoun Samaha"
+    "name": "Nagashree Bhat"
   },
   "private": true,
   "main": "index.js",
